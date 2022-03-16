@@ -29,6 +29,7 @@ echo "UUID=20927C1B927BF41E    ~/Externo/Games    ntfs    defaults,noatime 0 2" 
 mkdir -p ~/Externo/Games
 sudo mount /dev/sda2 ~/Externo/Games
 ln -s ~/Externo/Games/Yandex.Disk/Linux/.thunderbird ~/.thunderbird
+ln -s ~/Externo/Games/Yandex.Disk/Linux/.mozilla ~/.mozilla
 
 # Install apps
 sudo zypper -y remove vlc
