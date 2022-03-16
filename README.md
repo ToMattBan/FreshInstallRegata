@@ -23,7 +23,7 @@ Just freshInstall.sh and be happy
   - latte-dock 
   - steam
 - [x] Create SysLink to Thunderbird
-- [ ] Create SysLink to Firefox
+- [x] Create SysLink to Firefox
 - [ ] Create .desktop file for Telegram
 - [ ] Home directory automaticaly without use '~'
 - [ ] Making the default place to mount "Games" HD on a better place (Done, but need to fix issues)
