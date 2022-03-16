@@ -35,7 +35,7 @@ sudo zypper -y remove vlc
 sudo zypper -y in git npm codium discord thunderbird chromium deezer celluloid latte-dock steam
 
 # Install yandex
-yandex-disk install
+yandex-disk setup
 
 # Removing files unused
-rm -rf yandex-disk-latest.x86_64.rpm tsetup.3.6.0.tar.xz
+rm -rf yandex-disk-latest.x86_64.rpm tsetup.3.6.0.tar.xz plexmediaserver-1.25.6.5577-c8bd13540.x86_64.rpm
