@@ -32,7 +32,7 @@ ln -s ~/Externo/Games/Yandex.Disk/Linux/.thunderbird ~/.thunderbird
 
 # Install apps
 sudo zypper -y remove vlc
-sudo zypper -y in git npm codium discord thunderbird discord chromium deezer celluloid latte-dock steam
+sudo zypper -y in git npm codium discord thunderbird chromium deezer celluloid latte-dock steam
 
 # Install yandex
 yandex-disk install
