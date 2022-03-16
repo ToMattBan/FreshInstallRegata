@@ -28,7 +28,7 @@ tar -xf tsetup.3.6.0.tar.xz
 echo "UUID=20927C1B927BF41E    ~/Externo/Games    ntfs    defaults,noatime 0 2" >> /etc/fstab
 mkdir -p ~/Externo/Games
 sudo mount /dev/sda2 ~/Externo/Games
-ln ~/Externo/Games/Yandex.Disk/Linux/.thunderbird ~/.thunderbird
+ln -s ~/Externo/Games/Yandex.Disk/Linux/.thunderbird ~/.thunderbird
 
 # Install apps
 sudo zypper -y remove vlc
