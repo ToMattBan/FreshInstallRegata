@@ -30,7 +30,7 @@ tar -xf tsetup.3.6.0.tar.xz
 #Exec=
 #Terminal=false
 #Type=Application
-#Icon=
+#Icon=~/.local/share/icons/telegram.png
 #Categories=Development;Utilities;" > /usr/share/applications/telegram.desktop
 
 
@@ -38,8 +38,11 @@ tar -xf tsetup.3.6.0.tar.xz
 echo "UUID=20927C1B927BF41E    ~/Externo/Games    ntfs    defaults,noatime 0 2" >> /etc/fstab
 mkdir -p ~/Externo/Games
 sudo mount /dev/sda2 ~/Externo/Games
+
+# Criando SysLinks
 ln -s ~/Externo/Games/Yandex.Disk/Linux/.thunderbird ~/.thunderbird
 ln -s ~/Externo/Games/Yandex.Disk/Linux/.mozilla ~/.mozilla
+ln -s ~/Externo/Games/Yandex.Disk/Linux/korganizer ~/.local/share/apps/korganizer
 
 # Install apps
 sudo zypper -y remove vlc
