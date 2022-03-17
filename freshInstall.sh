@@ -33,7 +33,7 @@ ln -s ~/Externo/Games/Yandex.Disk/Linux/.mozilla ~/.mozilla
 
 # Install apps
 sudo zypper -y remove vlc
-sudo zypper -y in git npm codium discord thunderbird chromium deezer celluloid latte-dock steam
+sudo zypper -y in git npm codium discord thunderbird chromium deezer celluloid latte-dock korganizer trello steam
 
 # Install yandex
 yandex-disk setup
