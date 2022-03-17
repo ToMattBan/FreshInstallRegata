@@ -23,6 +23,16 @@ sudo rpm -i plexmediaserver-1.25.6.5577-c8bd13540.x86_64.rpm
 wget https://updates.tdesktop.com/tlinux/tsetup.3.6.0.tar.xz
 tar -xf tsetup.3.6.0.tar.xz
 
+#sudo echo "[Desktop Entry]
+#Name=Telegram
+#GenericName=Mensageiro Instantâneo
+#Keywords=telegram, mensagens, message;
+#Exec=
+#Terminal=false
+#Type=Application
+#Icon=
+#Categories=Development;Utilities;" > /usr/share/applications/telegram.desktop
+
 
 # Montando HD Externo no ponto correto
 echo "UUID=20927C1B927BF41E    ~/Externo/Games    ntfs    defaults,noatime 0 2" >> /etc/fstab
