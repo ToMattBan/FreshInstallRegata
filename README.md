@@ -26,7 +26,7 @@ Just freshInstall.sh and be happy
   - steam
 - [x] Create SysLink to Thunderbird
 - [x] Create SysLink to Firefox
-- [ ] Create SysLink for Korganizer
+- [x] Create SysLink for Korganizer
 - [ ] Create SysLink for Latte-Dock
 - [ ] Create .desktop file for Telegram
 - [ ] Home directory automaticaly without use '~'
