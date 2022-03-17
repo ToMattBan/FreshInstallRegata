@@ -46,7 +46,7 @@ ln -s ~/Externo/Games/Yandex.Disk/Linux/korganizer ~/.local/share/apps/korganize
 
 # Install apps
 sudo zypper -y remove vlc
-sudo zypper -y in git npm codium discord thunderbird chromium deezer celluloid latte-dock korganizer trello steam
+sudo zypper -y in git npm codium discord thunderbird chromium deezer celluloid latte-dock trello steam    korganizer koraganizer-lang mariadb appimaged akonadi-server akonadi-search
 
 # Install yandex
 yandex-disk setup
