@@ -26,7 +26,10 @@ Just freshInstall.sh and be happy
   - steam
 - [x] Create SysLink to Thunderbird
 - [x] Create SysLink to Firefox
+- [ ] Create SysLink for Korganizer
+- [ ] Create SysLink for Latte-Dock
 - [ ] Create .desktop file for Telegram
 - [ ] Home directory automaticaly without use '~'
 - [ ] Making the default place to mount "Games" HD on a better place (Done, but need to fix issues)
 - [ ] Web Scrapping to get Telegram, Plex and Cascadia Code download files automatically (Version issues)
+- [ ] Create list where you can select wich softwares you want
