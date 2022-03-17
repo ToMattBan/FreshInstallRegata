@@ -21,6 +21,7 @@ Just freshInstall.sh and be happy
   - deezer 
   - celluloid 
   - latte-dock 
+  - trello
   - korganizer
   - steam
 - [x] Create SysLink to Thunderbird
