@@ -27,7 +27,8 @@ Just freshInstall.sh and be happy
 - [x] Create SysLink to Thunderbird
 - [x] Create SysLink to Firefox
 - [x] Create SysLink for Korganizer
-- [ ] Create SysLink for Latte-Dock
+- [x] Create SysLink for Latte-Dock
+- [ ] Create SysLink to KDE Configs
 - [ ] Create .desktop file for Telegram
 - [ ] Home directory automaticaly without use '~'
 - [ ] Making the default place to mount "Games" HD on a better place (Done, but need to fix issues)
