@@ -44,6 +44,7 @@ ln -s ~/Externo/Games/Yandex.Disk/Linux/.thunderbird ~/.thunderbird
 ln -s ~/Externo/Games/Yandex.Disk/Linux/.mozilla ~/.mozilla
 ln -s ~/Externo/Games/Yandex.Disk/Linux/korganizer ~/.local/share/apps/korganizer
 ln -s ~/Externo/Games/Yandex.Disk/Linux/latte ~/.config/latte
+ln -s ~/Externo/Games/Yandex.Disk/Linux/.kde4 ~/.kde4
 
 # Install apps
 sudo zypper -y remove vlc
